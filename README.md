@@ -12,4 +12,8 @@ Requirements
 
 
 <h2> How To Use: Linux Users </h2>
-git clone https://github.com/rednam-py/
+<li> git clone https://github.com/rednam-py/rednam-py.git</li>
+<li> cd rednam-py</li>
+<li> chmod +x 755 run.py</li>
+<li> python run.py</li>
+
